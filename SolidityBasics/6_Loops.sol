@@ -25,6 +25,19 @@ contract Loops{
             return count;
 
         }
+        //Example to use in smart contracts!!
+        address public owner; //STATE VARIABLE!
+
+        constructor() {
+            owner = msg.sender; //Sets the owner to the address that deployed the contract.
+        }
+        
+        
+        function isOwner() public view returns (bool) { //checks if current address is the owner!
+                //it will check the owner of the contract RETURN TRUE IF 
+                return (msg.sender == owner);
+                //msg.sender It always represents who is interacting with the contract right now.
+        }
 
           
 }
