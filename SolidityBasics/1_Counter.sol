@@ -1,5 +1,7 @@
 // SPDX-License-Identifier: MIT
+//previous line is license modifier!!
     pragma solidity ^0.8.30;
+//previous line is Solidity langauge version used!
 
     //Two versions of code are written here as you can see, but last version is better because it’s simpler, cleaner, and uses Solidity’s automatic features!
     //No need for constructor since the variable can be initialized directly when declared.
