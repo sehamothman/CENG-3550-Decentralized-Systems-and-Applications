@@ -9,6 +9,7 @@
         //i can create empty array !
         string[] public values; //State variable
         // creating 2D arrays!
+        //Arrays inside another arrays! Array of an Array!
         uint256[][] public array2D = [[1, 2, 3], [4, 5, 6]];
 
 
