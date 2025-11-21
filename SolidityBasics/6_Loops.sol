@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.0;
+pragma solidity ^0.8.30;
 contract Loops{
         //program : we will have arrays of numbers and check if they are even or odd! the result should be the number of even numbers insode a array
         uint256 [] public numbers  = [1,2,3,4,5,6,7,8,9,10];
