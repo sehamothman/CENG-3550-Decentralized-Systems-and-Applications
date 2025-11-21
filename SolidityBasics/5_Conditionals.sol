@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.0;
+pragma solidity ^0.8.30;
 contract Conditionals {
   //Conditionals : is control flow structure! like a logic gate inside the program! if this then that!
         //IF (some condition) 
