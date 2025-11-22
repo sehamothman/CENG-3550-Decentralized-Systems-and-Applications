@@ -1,6 +1,6 @@
-# 🧩 Decentralized Systems and Applications Projects
+# Decentralized Systems and Applications Projects
 
-## 📘 Overview  
+## Overview  
 This repository contains the projects I completed for the **Decentralized Systems and Applications** course during the **Fall 2025** semester at **MSKU University**.  
 Each project demonstrates concepts such as blockchain architecture, smart contracts, and decentralized application (DApp) development.
 
@@ -8,11 +8,11 @@ Each project demonstrates concepts such as blockchain architecture, smart contra
 
 ---
 
-## 💼 Projects Included  
+## Projects Included  
 1. **Solidity Basics**
    - this folder Contains basics of solidity language to write smart contracts!
-3. **project2**
-4. **project3**
+3. **project1** Hotel Room reservation smart contract : user can book a room and pay ether crypto Currency (in this smart contract 2 ether is the cost)! then the room becomes occupied.
+4. **project2**
 ---
 
 ⭐ *Feel free to explore, fork, or contribute to these projects!*
