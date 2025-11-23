@@ -18,13 +18,13 @@ Real Estate App like Zillow, Zillow is a giant online catalog of homes. (IN-PROG
 
 - General Model:
   
-   ![Alt text](DiagramsOfProjects/project2/project2_generalModel.png)
+   ![Alt text](DiagramsOfAllProjects/project2/project2_generalModel.png)
 - Block Chain Architecture :
   
-  ![Alt text](DiagramsOfProjects/project2/project2_BlockchainArcht.png)
+  ![Alt text](DiagramsOfAllProjects/project2/project2_BlockchainArcht.png)
 
 - How the System works?
-  ![Alt text](DiagramsOfProjects/project2/project2_HSW.png)
+  ![Alt text](DiagramsOfAllProjects/project2/project2_HSW.png)
 
 ---
 
