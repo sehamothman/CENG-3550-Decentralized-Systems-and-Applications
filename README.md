@@ -15,11 +15,15 @@ Each project demonstrates concepts such as blockchain architecture, smart contra
 4. **project2** : HomeChain : 
 Real Estate App like Zillow, Zillow is a giant online catalog of homes. (IN-PROGRESS)
 
+
 - General Model:
+  
    ![Alt text](DiagramsOfProjects/project1/project1_generalModel.png)
-- Block chain Archt :
+- Block Chain Architecture :
+  
   ![Alt text](DiagramsOfProjects/project1/project1_BlockchainArcht.png)
-- How the system works?
+
+- How the System works?
   ![Alt text](DiagramsOfProjects/project1/project1_HSW.png)
 
 ---
