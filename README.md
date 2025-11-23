@@ -14,7 +14,14 @@ Each project demonstrates concepts such as blockchain architecture, smart contra
 3. **project1** : Hotel Room reservation smart contract : user can book a room and pay ether crypto Currency (in this smart contract 2 ether is the cost)! then the room becomes occupied.
 4. **project2** : HomeChain : 
 Real Estate App like Zillow, Zillow is a giant online catalog of homes. (IN-PROGRESS)
- ![Alt text](DiagramsOfProjects/HomeChain.png)
+
+- General Model:
+   ![Alt text](DiagramsOfProjects/project1/project1_generalModel.png)
+- Block chain Archt :
+  ![Alt text](DiagramsOfProjects/project1/project1_BlockchainArcht.png)
+- How the system works?
+  ![Alt text](DiagramsOfProjects/project1/project1_HSW.png)
+
 ---
 
 ⭐ *Feel free to explore, fork, or contribute to these projects!*
