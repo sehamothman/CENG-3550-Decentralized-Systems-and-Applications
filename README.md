@@ -17,7 +17,7 @@ Each project demonstrates concepts such as blockchain architecture, smart contra
      
         1- HardHat : used for creating smart contracts.
         2- Ethers library : is a Java script library used for interacting with smart contracts.
-        3- React js : Java script framwork for creating user interfaces to build client side website.
+        3- React js : Java script framework for creating user interfaces to build client side website.
      
 
 
