@@ -13,7 +13,10 @@ Each project demonstrates concepts such as blockchain architecture, smart contra
    - Important Note: (remix.ethereum.org) is used to compile and deploy this project
 5. **project2** : HomeChain :Real Estate App like Zillow, Zillow is a giant online catalog of homes. (IN-PROGRESS)
 
-   - Important Note:
+   - Important Note ** technologies used in this projects are **:
+        1- HardHat : used for creating smart contracts.
+        2- Ethers library : is a Java script library used for interacting with smart contracts.
+        3- React js : Java script framwork for creating user interfaces to build client side website.
      
 
 
