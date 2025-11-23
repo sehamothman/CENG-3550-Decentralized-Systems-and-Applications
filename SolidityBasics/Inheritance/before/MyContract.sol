@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0; //telling the compiler what version we will use!
 contract MyContract {
-    //1- inheritence:
+    //1- inheritence: A child contract can inherit some behaviours from its parent contract [ Not used her YET].
     //goal here only contract owner can see the secret!
     string secret; //local variable stored in blockchain
     address owner;
