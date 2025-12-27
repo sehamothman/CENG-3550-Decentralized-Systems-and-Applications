@@ -2,7 +2,7 @@
 pragma solidity ^0.8.0; //telling the compiler what version we will use!
 contract MyContract {
     //1- VARIABLES : 
-    //ways to store informations insode my smart contract to reuse it!
+    //ways to store informations inside my smart contract to reuse it!
     // State Variables vs Local Variables :
     //1-State Variables : before putting the keyword "public" Scope is inside the entire contract but now all contracts can access it!
     uint  public myUint = 1;
